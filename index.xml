@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>My New Hugo Site</title>
-        <link>http://example.org/</link>
+        <link>https://cherryamme.github.io/hugo_site/</link>
         <description>My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 Jul 2021 23:33:42 &#43;0800</lastBuildDate>
-            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://cherryamme.github.io/hugo_site/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>First_post</title>
-    <link>http://example.org/posts/first_post/</link>
+    <link>https://cherryamme.github.io/hugo_site/posts/first_post/</link>
     <pubDate>Sat, 10 Jul 2021 23:33:42 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://example.org/posts/first_post/</guid>
+    <guid>https://cherryamme.github.io/hugo_site/posts/first_post/</guid>
     <description><![CDATA[wodaigdikausbd olkabnf sdf asf asfd asf asf asf asf asf asf]]></description>
 </item></channel>
 </rss>
